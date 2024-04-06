@@ -1,6 +1,4 @@
----
-title: Hexo
----
+# Hexo
 
 > 使用 Hexo + GitHub Pages 搭建一个**静态网站**
 
